@@ -1,0 +1,103 @@
+body {
+	
+	font-family: arial;
+	font-size: 13px;
+	margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+		
+	
+}
+
+h1 {
+		
+			font-family: times new roman;
+			font-size: 50px;
+			text-transform: uppercase;	
+			color: #FE4365;
+			
+		
+		
+	}
+	
+	h2 {
+		
+			font-family: chiller;
+			font-size: 60px;
+			color: white;
+		
+		
+		
+	}
+	
+		
+	h3 {
+		
+		font-family: chiller;
+			font-size: 20px;
+			color: white;
+		
+	}
+	
+	
+	h4 {
+		
+		font-family: chiller;
+			font-size: 20px;
+			color: white;
+		
+	}
+	
+
+	p {
+		
+		font-family: chiller;
+		color: white;
+		text-align: justify;
+		font-size: 30px;
+		
+		
+	}
+	
+	/*Nesse caso, estou definindo qual deverá ser a cor dos links que aparecem em minha página*/
+		
+	a {
+	
+	color: red;
+	font-weight: bold;
+	
+	
+	}
+	
+	/* Nesse caso estou definindo a cor que deverão aparecer os links que eu já entrei */
+
+a:visited {
+	
+	color:red;
+	background-color: grey;
+}
+
+
+.lulu {
+	
+	color: #FE4365;
+	font-weight: bold;
+	
+}
+
+.not {
+	
+	
+	font-family: chiller;
+	font-size: 25px;
+	color: white;
+}
+
+
+
+		
+		
+
+		
+		
+	
